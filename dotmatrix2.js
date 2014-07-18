@@ -12,7 +12,7 @@ window.onload = function(){
    game.fps=30;
   //事前読み込み
   game.preload("onoff.png");
-  // ゲームの背景色を緑に設定
+  // ゲームの背景色を白に設定
   game.rootScene.backgroundColor = "white";
 
 /*
