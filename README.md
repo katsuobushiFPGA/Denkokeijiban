@@ -11,4 +11,4 @@ Denkokeijiban
 4.You can find "λΔ…" about under this line.  
 5.You write a string which want to display a character.  
 ##Sample
-<a href="http://wwww.github.com/katsuobushifpga.github.io/Denkokeijiban/index.html">Sample this code</a>
+<a href="http://wwww.katsuobushifpga.github.io/Denkokeijiban/index.html">Sample this code</a>
