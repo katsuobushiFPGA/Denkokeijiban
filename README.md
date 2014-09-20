@@ -2,7 +2,7 @@ Denkokeijiban
 =============
 ##Language & Library
 *JavaScript + enchant.js Project  
-##Sumally
+##Summary
 *This is like an electical scoreboard.
 ##How to use
 1.Download this repository.  
